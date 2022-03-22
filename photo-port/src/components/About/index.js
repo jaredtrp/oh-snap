@@ -7,7 +7,7 @@ function About() {
       <h1 id="about">Who am I?</h1>
       <img
         src={coverImage}
-        classname="my-2"
+        className="my-2"
         style={{ width: '100%' }}
         alt="cover"
       />
